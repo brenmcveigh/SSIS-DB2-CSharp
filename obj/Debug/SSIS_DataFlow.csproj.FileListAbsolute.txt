@@ -1,0 +1,43 @@
+C:\Users\mcveb\Documents\Visual Studio 2008\Projects\SSIS_DataFlow\SSIS_DataFlow\bin\Debug\SSIS_DataFlow.exe
+C:\Users\mcveb\Documents\Visual Studio 2008\Projects\SSIS_DataFlow\SSIS_DataFlow\bin\Debug\SSIS_DataFlow.pdb
+C:\Users\mcveb\Documents\Visual Studio 2008\Projects\SSIS_DataFlow\SSIS_DataFlow\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mcveb\Documents\Visual Studio 2008\Projects\SSIS_DataFlow\SSIS_DataFlow\obj\Debug\SSIS_DataFlow.Form1.resources
+C:\Users\mcveb\Documents\Visual Studio 2008\Projects\SSIS_DataFlow\SSIS_DataFlow\obj\Debug\SSIS_DataFlow.Properties.Resources.resources
+C:\Users\mcveb\Documents\Visual Studio 2008\Projects\SSIS_DataFlow\SSIS_DataFlow\obj\Debug\SSIS_DataFlow.csproj.GenerateResource.Cache
+C:\Users\mcveb\Documents\Visual Studio 2008\Projects\SSIS_DataFlow\SSIS_DataFlow\obj\Debug\SSIS_DataFlow.exe
+C:\Users\mcveb\Documents\Visual Studio 2008\Projects\SSIS_DataFlow\SSIS_DataFlow\obj\Debug\SSIS_DataFlow.pdb
+C:\Users\mcveb\Documents\Visual Studio 2008\Projects\SSIS_DataFlow\SSIS_DataFlow\obj\Debug\SSIS_DataFlow.Popup.resources
+C:\Users\mcveb\Documents\Visual Studio 2008\Projects\SSIS_DataFlow\SSIS_DataFlow\bin\Debug\SSIS_DataFlow.exe.config
+C:\Users\mcveb\Documents\Visual Studio 2008\Projects\SSIS_DataFlow - BACKUP\SSIS_DataFlow\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mcveb\Documents\Visual Studio 2008\Projects\SSIS_DataFlow - BACKUP\SSIS_DataFlow\obj\Debug\SSIS_DataFlow.Form1.resources
+C:\Users\mcveb\Documents\Visual Studio 2008\Projects\SSIS_DataFlow - BACKUP\SSIS_DataFlow\obj\Debug\SSIS_DataFlow.Popup.resources
+C:\Users\mcveb\Documents\Visual Studio 2008\Projects\SSIS_DataFlow - BACKUP\SSIS_DataFlow\obj\Debug\SSIS_DataFlow.Properties.Resources.resources
+C:\Users\mcveb\Documents\Visual Studio 2008\Projects\SSIS_DataFlow - BACKUP\SSIS_DataFlow\obj\Debug\SSIS_DataFlow.csproj.GenerateResource.Cache
+C:\Users\mcveb\Documents\Visual Studio 2008\Projects\SSIS_DataFlow - BACKUP\SSIS_DataFlow\obj\Debug\SSIS_DataFlow.exe
+C:\Users\mcveb\Documents\Visual Studio 2008\Projects\SSIS_DataFlow - BACKUP\SSIS_DataFlow\bin\Debug\SSIS_DataFlow.exe.config
+C:\Users\mcveb\Documents\Visual Studio 2008\Projects\SSIS_DataFlow - BACKUP\SSIS_DataFlow\bin\Debug\SSIS_DataFlow.exe
+C:\Users\mcveb\Documents\Visual Studio 2008\Projects\SSIS_DataFlow - BACKUP\SSIS_DataFlow\bin\Debug\SSIS_DataFlow.pdb
+C:\Users\mcveb\Documents\Visual Studio 2008\Projects\SSIS_DataFlow - BACKUP\SSIS_DataFlow\obj\Debug\SSIS_DataFlow.pdb
+C:\Users\mcveb\Documents\Visual Studio 2008\Projects\SSIS_DataFlow - BACKUP\SSIS_DataFlow\bin\Debug\app.config
+C:\Users\mcveb\Documents\Visual Studio 2008\Projects\SSIS_DataFlow_2008\SSIS_DataFlow\bin\Debug\SSIS_DataFlow.exe.config
+C:\Users\mcveb\Documents\Visual Studio 2008\Projects\SSIS_DataFlow_2008\SSIS_DataFlow\obj\Debug\SSIS_DataFlow.exe
+C:\Users\mcveb\Documents\Visual Studio 2008\Projects\SSIS_DataFlow_2008\SSIS_DataFlow\obj\Debug\SSIS_DataFlow.pdb
+C:\Users\mcveb\Documents\Visual Studio 2008\Projects\SSIS_DataFlow_2008\SSIS_DataFlow\bin\Debug\app.config
+C:\Users\mcveb\Documents\Visual Studio 2008\Projects\SSIS_DataFlow_2008\SSIS_DataFlow\bin\Debug\SSIS_DataFlow.exe
+C:\Users\mcveb\Documents\Visual Studio 2008\Projects\SSIS_DataFlow_2008\SSIS_DataFlow\bin\Debug\SSIS_DataFlow.pdb
+C:\Users\mcveb\Documents\Visual Studio 2008\Projects\SSIS_DataFlow_2008\SSIS_DataFlow\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mcveb\Documents\Visual Studio 2008\Projects\SSIS_DataFlow_2008\SSIS_DataFlow\obj\Debug\SSIS_DataFlow.Form1.resources
+C:\Users\mcveb\Documents\Visual Studio 2008\Projects\SSIS_DataFlow_2008\SSIS_DataFlow\obj\Debug\SSIS_DataFlow.Popup.resources
+C:\Users\mcveb\Documents\Visual Studio 2008\Projects\SSIS_DataFlow_2008\SSIS_DataFlow\obj\Debug\SSIS_DataFlow.Properties.Resources.resources
+C:\Users\mcveb\Documents\Visual Studio 2008\Projects\SSIS_DataFlow_2008\SSIS_DataFlow\obj\Debug\SSIS_DataFlow.csproj.GenerateResource.Cache
+C:\Users\mcveb\Documents\Visual Studio 2008\Projects\SSIS_DataFlow_2008_External\SSIS_DataFlow\bin\Debug\app.config
+C:\Users\mcveb\Documents\Visual Studio 2008\Projects\SSIS_DataFlow_2008_External\SSIS_DataFlow\bin\Debug\SSIS_DataFlow.exe.config
+C:\Users\mcveb\Documents\Visual Studio 2008\Projects\SSIS_DataFlow_2008_External\SSIS_DataFlow\bin\Debug\SSIS_DataFlow.exe
+C:\Users\mcveb\Documents\Visual Studio 2008\Projects\SSIS_DataFlow_2008_External\SSIS_DataFlow\bin\Debug\SSIS_DataFlow.pdb
+C:\Users\mcveb\Documents\Visual Studio 2008\Projects\SSIS_DataFlow_2008_External\SSIS_DataFlow\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mcveb\Documents\Visual Studio 2008\Projects\SSIS_DataFlow_2008_External\SSIS_DataFlow\obj\Debug\SSIS_DataFlow.Form1.resources
+C:\Users\mcveb\Documents\Visual Studio 2008\Projects\SSIS_DataFlow_2008_External\SSIS_DataFlow\obj\Debug\SSIS_DataFlow.Popup.resources
+C:\Users\mcveb\Documents\Visual Studio 2008\Projects\SSIS_DataFlow_2008_External\SSIS_DataFlow\obj\Debug\SSIS_DataFlow.Properties.Resources.resources
+C:\Users\mcveb\Documents\Visual Studio 2008\Projects\SSIS_DataFlow_2008_External\SSIS_DataFlow\obj\Debug\SSIS_DataFlow.csproj.GenerateResource.Cache
+C:\Users\mcveb\Documents\Visual Studio 2008\Projects\SSIS_DataFlow_2008_External\SSIS_DataFlow\obj\Debug\SSIS_DataFlow.exe
+C:\Users\mcveb\Documents\Visual Studio 2008\Projects\SSIS_DataFlow_2008_External\SSIS_DataFlow\obj\Debug\SSIS_DataFlow.pdb
